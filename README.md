@@ -19,3 +19,9 @@
 ### Git Hub 
 ### Editor de texto
 
+## Explicación de la data utilizada 
+### ejercicio_1101.sh
+
+#### El ejercicio presenta datos de secuenciacion de siguiente  generación en formato FASTA.
+#### El conjunto de datos fueron publicados por Marra y DeWoody (2014), quienes investigarion el repertorio inmunogenetico de los roedores. El archivo Marra2014_data.fasta contiene segmentos de secuencia contig de diferentes tamaños. 
+#### Ademas, se proporciona datos en la descripción del contig, taales como longitud, el numero de lecturas que contribuyeron al contig, su isogrupo y el estado de isotig. 
